@@ -1,0 +1,8 @@
+# Default code owners (adjust to your GitHub usernames or teams)
+# Users/teams listed here will be requested for review automatically.
+
+# All files
+* @vannesaayuni6139-lgtm
+
+# UI / frontend code
+src/components/ @vannesaayuni6139-lgtm
