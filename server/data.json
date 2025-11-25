@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": "u_admin",
+      "email": "admin@telco.dev",
+      "passwordHash": "$2b$10$TTyY/xj/vOIwJ9qpdCD0sOHr7NvJCuLf3l3fEUK41f2sbnDRL12DS",
+      "name": "Admin Demo",
+      "role": "admin",
+      "createdAt": "2025-11-24T17:37:04.076Z"
+    }
+  ]
+}
